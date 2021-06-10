@@ -6,7 +6,7 @@ class Firebase extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Firebase',
+        title: 'Flutter Firebase- Paty',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.blue[900],
